@@ -1,0 +1,2 @@
+C:\Users\The3D\Desktop\StreamAR\ARStreamHLV2\Assets\Dependencies\netstandard2.0\ARStreamHLV2.Dependencies.msb4u.deps.json
+C:\Users\The3D\Desktop\StreamAR\ARStreamHLV2\MSBuild\Output\obj\Dependencies\Release\netstandard2.0\ARStreamHLV2.Dependencies.msb4u.csproj.AssemblyReference.cache

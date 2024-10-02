@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdEPV8qd6jjSq61eei14Owif8kh5d51NHBFHYakhnyYvAG2tW0CZ6JSsT61ezJ5NRoLqUDuHr+PxMWklyhOndA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The3D\\Desktop\\StreamAR\\ARStreamHLV2\\Assets\\ARStreamHLV2.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The3D\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\The3D\\.nuget\\packages\\msbuildforunity\\0.9.1-123842\\msbuildforunity.0.9.1-123842.nupkg.sha512",
+    "C:\\Users\\The3D\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
